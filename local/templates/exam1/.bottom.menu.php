@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Отзывы", 
+		"/local/templates/exam1/rew/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Руководство", 
+		"/local/templates/exam1/company/managemen.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История", 
+		"/local/templates/exam1/company/history.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
